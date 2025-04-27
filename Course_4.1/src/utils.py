@@ -1,7 +1,6 @@
 import json
 
-from src.Category import Category
-from src.Product import Product
+
 
 
 def load_data_from_json():
